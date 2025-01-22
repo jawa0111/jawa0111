@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">Shaping the Future of Tech with Passion-Driven Code and Innovation.</h3><br>
 <img align="right" alt="coding" width="400"  src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
-<p align="left" text-justify: inter-word> <img src="https://komarev.com/ghpvc/?username=abicosta&label=Profile%20views&color=0e75b6&style=flat" alt="abicosta" /> </p>
+<p align="left" text-justify: inter-word> <img src="https://komarev.com/ghpvc/?username=abicosta&label=Profile%20views&color=0e75b6&style=flat" alt="jawa0111" /> </p>
 
 - 🌱  I’m interested in full stack development in web applications
 
@@ -46,7 +46,7 @@
 <div align="center">
   <h2>⚡ Stats ⚡</h2>
   <br>
-  <img width=400 src="https://streak-stats.demolab.com?user=jawa0111&theme=dark-smoky" alt="GitHub Streak"/><br>
+  
   <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=jawa0111&show_icons=true&locale=en&layout=compact&theme=react&rank" alt="jawa0111"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=jawa0111&theme=react&rank&show_icons=true&rank_icon=github" alt="jawa0111's GitHub stats" />
 </div>
